@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">cambiomodena</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Cerrar menu</string>
+    <string name="nav_header_title">UNAD</string>
+    <string name="nav_header_subtitle">www.unad.edu.co</string>
+    <string name="nav_header_desc">Menus</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Acerca de Cambio</string>
+    <string name="menu_slideshow">Acerca de Nosotros</string>
+    <string name="menu_tools">Convertir monedas</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_send">Enviar</string>
+
+    <string name="btn_convertir">Convertir moneda</string>
+</resources>
